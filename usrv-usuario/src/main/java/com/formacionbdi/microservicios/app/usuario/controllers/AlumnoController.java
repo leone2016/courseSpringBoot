@@ -2,7 +2,6 @@ package com.formacionbdi.microservicios.app.usuario.controllers;
 
 import java.util.Optional;
 
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -11,8 +10,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.formacionbdi.microservicios.app.commons.controllers.CommonController;
-import com.formacionbdi.microservicios.app.usuario.models.entity.Alumno;
 import com.formacionbdi.microservicios.app.usuario.services.AlumnoService;
+import com.formacionbdi.microservicios.common.alumnos.models.entity.Alumno;
 
 @RestController()
 public class AlumnoController extends CommonController<Alumno, AlumnoService>{

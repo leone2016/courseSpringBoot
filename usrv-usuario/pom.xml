@@ -21,6 +21,11 @@
 
 	<dependencies>
 		<dependency>
+			<groupId>com.formacionbdi.microservicios.common.alumnos</groupId>
+			<artifactId>common-alumnos</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
 			<groupId>com.formacionbdi.microservicios.app.commons</groupId>
 			<artifactId>usrv-commons</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
