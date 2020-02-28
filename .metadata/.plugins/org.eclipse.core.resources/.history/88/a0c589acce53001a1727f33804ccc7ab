@@ -1,5 +1,0 @@
-package com.formacionbdi.microservicios.app.usuario.models.repository;
-
-public class AlumnoRepository {
-
-}

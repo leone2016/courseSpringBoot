@@ -1,7 +1,0 @@
-package com.formacionbdi.microservicios.app.usuario.models.repository;
-
-import org.springframework.data.repository.CrudRepository;
-
-public class AlumnoRepository implements CrudRepository<T, ID> {
-
-}

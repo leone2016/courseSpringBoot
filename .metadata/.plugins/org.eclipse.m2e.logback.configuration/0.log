@@ -4235,3 +4235,78 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2020-02-26 04:10:16,437 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-02-26 04:10:16,438 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-02-26 04:10:16,439 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\usrv-cursos\src\test\resources
+2020-02-26 04:17:46,029 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:17:46,029 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 04:17:46,030 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 04:17:46,032 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:17:46,033 [Worker-100: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\common-alumnos\src\test\resources
+2020-02-26 04:18:07,769 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:18:07,770 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 04:18:07,770 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 04:18:07,772 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:18:07,772 [Worker-102: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\common-alumnos\src\test\resources
+2020-02-26 04:25:08,594 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:25:08,595 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 04:25:08,597 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 04:25:08,599 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:25:08,599 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\usrv-cursos\src\test\resources
+2020-02-26 04:28:09,113 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:28:09,113 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 04:28:09,115 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 04:28:09,117 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:28:09,118 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\usrv-cursos\src\test\resources
+2020-02-26 04:29:58,227 [Worker-45: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 04:29:58,227 [Worker-45: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 04:29:58,932 [Worker-45: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 04:29:58,933 [Worker-45: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 04:29:59,639 [Worker-45: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 04:29:59,639 [Worker-45: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 04:32:00,535 [Worker-107: Launching usrv-cursos - UsrvCursosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 04:32:00,535 [Worker-107: Launching usrv-cursos - UsrvCursosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 04:32:01,480 [Worker-107: Launching usrv-cursos - UsrvCursosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 04:32:01,480 [Worker-107: Launching usrv-cursos - UsrvCursosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 04:32:02,163 [Worker-107: Launching usrv-cursos - UsrvCursosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 04:32:02,164 [Worker-107: Launching usrv-cursos - UsrvCursosApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 04:52:32,459 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:52:32,461 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 04:52:32,463 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 04:52:32,464 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:52:32,465 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\usrv-usuario\src\test\resources
+2020-02-26 04:52:36,588 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:52:36,588 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 04:52:36,590 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 04:52:36,592 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:52:36,592 [Worker-105: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\usrv-usuario\src\test\resources
+2020-02-26 04:53:29,673 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:53:29,674 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 04:53:29,676 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 04:53:29,678 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:53:29,678 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\usrv-usuario\src\test\resources
+2020-02-26 04:55:02,714 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:55:02,715 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 04:55:02,718 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 04:55:02,720 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:55:02,721 [Worker-114: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\usrv-usuario\src\test\resources
+2020-02-26 04:58:00,478 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:58:00,480 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 04:58:00,483 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 04:58:00,486 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 04:58:00,486 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\usrv-usuario\src\test\resources
+2020-02-26 05:00:26,244 [Worker-76: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 05:00:26,245 [Worker-76: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 05:00:27,105 [Worker-76: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 05:00:27,105 [Worker-76: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 05:00:27,864 [Worker-76: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 05:00:27,865 [Worker-76: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 05:03:48,455 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 05:03:48,456 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-02-26 05:03:48,458 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-02-26 05:03:48,460 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-26 05:03:48,460 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Leonardo\Documentos\U D E M Y\microservicioSPRING\usrv-usuario\src\test\resources
+2020-02-26 05:04:13,766 [Worker-116: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 05:04:13,766 [Worker-116: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 05:04:14,410 [Worker-116: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 05:04:14,410 [Worker-116: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-26 05:04:15,053 [Worker-116: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/common-alumnos: com.formacionbdi.microservicios.common.alumnos:common-alumnos:0.0.1-SNAPSHOT with classifier null to /common-alumnos/target/classes
+2020-02-26 05:04:15,053 [Worker-116: Launching usrv-usuario - UsrvUsuarioApplication] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/usrv-commons: com.formacionbdi.microservicios.app.commons:usrv-commons:0.0.1-SNAPSHOT with classifier null to /usrv-commons/target/classes
+2020-02-27 09:50:37,007 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
