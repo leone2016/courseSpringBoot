@@ -3,8 +3,10 @@ package com.formacionbdi.microservicios.app.examenes.model.entity;
 import java.util.Date;
 import java.util.List;
 
+import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
+import javax.persistence.FetchType;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
@@ -28,7 +30,7 @@ public class Examen {
 	@Column(name="create_at")
 	private Date createAt;
 	
-	@OneToMany
+	@OneToMany(fetch = FetchType.LAZY, cascade = CascadeType.ALL) // cuando elimina el examen, tambien debe eliminar sus preguntas
 	private List<Pregunta> preguntas;
 
 	@PrePersist
